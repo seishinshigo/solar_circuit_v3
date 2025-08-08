@@ -1,0 +1,12 @@
+{
+  "python-envs.pythonProjects": [],
+  "python-envs.defaultEnvManager": "ms-python.python:system",
+
+  "editor.formatOnSave": true,
+  "python.formatting.provider": "black",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.fixAll.ruff": "explicit"
+  }
+}
